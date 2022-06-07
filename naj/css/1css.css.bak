@@ -1,0 +1,53 @@
+body{background-color:#2BD1E0; background-image:url(../obr/tlo1.jpg); background-attachment:fixed; background-repeat:no-repeat;}
+
+.srodek{text-align:center;color:#566FE8;margin-left: auto; margin-right: auto; font-size:40pt;height: 300px;width: 1200px;}
+.srodek1{text-align:center;color:#2BD1E0;margin-left: auto; margin-right: auto; font-size:25pt;height: 200px;width: 1000px;}
+
+.pierw{color:#3CDBD3; left:0px; top:0px; position:relative; width: 500px; font-size:18pt;}
+
+.czcionka{font-size:40pt;color:#918FFF;border-color:#2BE0D8; border-width:1px; border-style:bold;}
+.kolor{color:gray;}
+.need{}
+.grid-container {
+  display: grid;
+   grid-template-rows: 100px 600px ; 
+   grid-template-areas:
+    'dumbledore Grindelwald Voldemort Moody Snape Minerva Bellatrix'
+	
+    'blank2 obraz obraz obraz obraz obraz blank1';
+  gap: 10px;
+  background-color: gray;
+  padding: 10px;
+}
+.obraz1{grid-area: dumbledore; background-color: pink;}
+.obraz2{grid-area: Grindelwald; background-color: pink;}
+.obraz3{grid-area: Voldemort; background-color: pink;}
+.obraz4{grid-area: Moody;background-color: pink;}
+.obraz5{grid-area: Snape; background-color: pink;}
+.obraz6{grid-area: Minerva; background-color: pink;}
+.obraz7{grid-area: Bellatrix; background-color: red;}
+
+.obraz{grid-area: obraz; background-color:#E0BF2B;}
+
+.wyswietlacz{margin-left:auto; margin-right:auto;}
+
+
+.pusto{grid-area: blank2; background-color:yellow; opacity:0;}
+.pusto1{grid-area: blank1; background-color: green; opacity:0;}
+
+
+
+@media screen and (max-width:1201px) {
+  .srodek {color:blue; margin-left:0px; width:800px;}
+  .srodek1{margin-left:0px; width:800px;}
+}
+@media screen and (max-width:1200px) {
+	.srodek {color:blue; margin-left:0px; width:400px;}
+	.srodek1{margin-left:0px; width:400px;}
+
+}
+@media screen and (max-width:600px) {
+
+	.pierw{width:200px; }
+	
+}

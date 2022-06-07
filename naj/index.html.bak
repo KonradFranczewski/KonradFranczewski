@@ -1,0 +1,197 @@
+<!doctype HTML>
+<HTML>
+
+<head style="background-color:white">
+<link rel="stylesheet" href="css/1css.css">
+<title>siedem naj</title>
+<meta charset=utf-8>
+</head>
+
+<body>
+
+<div class=srodek> 7 najpotężniejszych czarodziejów w uniwersum "Harry Potter"</div>
+<br><br><br><br>
+<div class=srodek1 id=poczotek> 
+<a href=#albus>Dumbledore</a>
+<a href=#grindelwald>Grindelwald</a>
+<a href=#voldemort>Voldemort</a>
+<a href=#moody>Moody</a>
+<a href=#snape>Snape</a>
+<a href=#minerva>McGonagall</a>
+<a href=#bellatrix>Lestrange</a>
+<a href=#koniec>koniec</a>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class=pierw>
+
+
+<ol>
+<li>
+	<div id=albus class=pierw> <h1>Albus Dumbledore</h1>
+<br>
+Profesor Albus Persiwal Wulfryk Brian Dumbledore (Kawaler Orderu Merlina Pierwszej Klasy) (ur. 1881 − zm. czerwiec 1997 r. na Wieży Astronomicznej) — wybitny czarodziej półkrwi, najpierw nauczyciel transmutacji, a później wieloletni dyrektor Szkoły Magii i Czarodziejstwa w Hogwarcie, zdobywca Orderu Merlina pierwszej klasy za swoje dokonania w świecie czarodziejskim, Najwyższa Szycha Międzynarodowej Konfederacji Czarodziejów, Naczelny Mag Wizengamotu.
+Miał w swoim biurze feniksa, Fawkesa. W 1945 roku zasłynął z pokonania Gellerta Grindelwalda i osadzenia go w Nurmengardzie. Dumbledore założył Zakon Feniksa w czasie pierwszej wojny czarodziejów, który powstał do walki z Lordem Voldemortem. Po zniknięciu Czarnego Pana zakon został zawieszony, a reaktywowany po jego odrodzeniu się. Niszczył horkruksy Voldemorta, był jedynym czarodziejem, którego czarnoksiężnik się bał. Albus Dumbledore posiadał wszystkie Insygnia Śmierci, choć w różnym czasie. Został uwieczniony na kartach z Czekoladowych Żab. Albus był znany z prac alchemicznych z Nicolasem Flamelem i wynalezienia dwunastu sposobów wykorzystania smoczej krwi.
+
+
+
+
+
+
+
+</div>
+</li>
+
+<li>
+	<div id=grindelwald class=pierw > <h1>Gellert Grindelwald </h1>
+Gellert Grindelwald (ur. 1883, zm. 1998) — wielki czarnoksiężnik nieznanego statusu krwi, działający w pierwszej połowie XX wieku. Dawny przyjaciel Albusa Dumbledore'a, którego poznał podczas pobytu u swojej ciotki Bathildy Bagshot w Dolinie Godryka. To on ukradł Czarną Różdżkę Gregorowiczowi. Utracił ją podczas pojedynku z Albusem w 1945 roku.
+
+
+
+
+
+
+</div>
+</li>
+
+<li>
+	<div id=voldemort class=pierw> <h1>Tom Marvolo Riddle(Lord Vlodemort) </h1>
+Lord Voldemort (właśc. Tom Marvolo Riddle Jr; ur. 31 grudnia 1926 − zm. 2 maja 1998 r.) — czarodziej półkrwi, potężny czarnoksiężnik oraz przywódca śmierciożerców. Ślizgon za czasów nauki w Szkole Magii i Czarodziejstwa w Hogwarcie.
+	
+
+
+
+
+
+
+
+</div>
+</li>
+<li>
+	<div id=moody class=pierw> <h1>Alastor Moody </h1>
+Alastor "Szalonooki" Moody (ang. Mad-Eye Moody, zm. 27 lipca 1997) — szkocki czarodziej czystej krwi, uważany za najlepszego aurora swoich czasów.
+Ważny członek Zakonu Feniksa zarówno podczas Pierwszej, jak i Drugiej Wojny Czarodziejów, która rozpoczęła się po odrodzeniu Voldemorta w 1995 r. na Cmentarzu w Little Hangleton.
+
+W czasie pierwszej wojny zasłużył się w walce i zyskał ogromną renomę wśród innych czarodziejów. Poświęcił również w walkach swoje oko (zastąpił je magicznym), nogę (później miał drewnianą) i kawałek nosa (Moody podczas jednej z rozpraw toczonej w Wizengamocie pokazał Dumbledore'owi spory ubytek w nosie).
+
+
+
+
+
+
+
+</div>
+
+</li>
+<li>
+	<div id=snape class=pierw> <h1>Severus Snape </h1>
+Severus Tobiasz Snape (ang. Severus Tobias Snape; ur. 9 stycznia 1960 − zm. 2 maja 1998 r.) — czarodziej półkrwi, dyrektor Szkoły Magii i Czarodziejstwa w Hogwarcie w czasie roku szkolnego 1997–1998, nauczyciel eliksirów (ok. 1980−1996) oraz obrony przed czarną magią (1996–1997). Syn czarownicy Eileen Prince i mugola Tobiasza Snape'a. Śmierciożerca oraz szpieg Albusa Dumbledore'a i członek Zakonu Feniksa.
+
+
+
+
+
+
+</div>
+</li>
+<li>
+	<div id=minerva class=pierw> <h1>Minerva McGonagall </h1>
+Minerwa McGonagall (Dama Orderu Merlina Pierwszej Klasy)(ur. 4 października nieznanego roku) — wybitna czarownica półkrwi, ucząca transmutacji w Szkole Magii i Czarodziejstwa w Hogwarcie. W swojej karierze była także opiekunką Gryffindoru oraz dyrektorem i wicedyrektorem szkoły. Owdowiała w wieku 50 lat (jej mężem był Elphinstone Urquart).
+
+
+
+
+
+
+</div>
+</li>
+<li>
+	<div id=bellatrix class=pierw> <h1>Bellatrix Lestrange </h1>
+Bellatriks Lestrange (ang. Bellatrix Lestrange; z d. Black; ur. 1951, zm. 2 maja 1998 r.) — czarownica czystej krwi. Najstarsza córka Druelli Rosier i Cygnusa Blacka, pochodziła z Rodu Blacków. Miała dwie młodsze siostry: Andromedę Tonks i Narcyzę Malfoy. Bellatriks zginęła podczas bitwy o Hogwart z rąk Molly Weasley, matki Rona Weasleya. Prawdopodobnie użyła umocnionej Drętwoty, co zaowocowało zatrzymaniem akcji serca lub Glaciusa, a potem Diffindo albo samej niewerbalnej Avady Kedavry.
+
+
+
+
+
+
+</div>
+</li>
+
+
+
+</ol>
+
+</div>
+
+
+
+
+
+<div class="grid-container">
+  <div class="obraz1">	<a href="obr/dumbledore.jpg" target="ramka"  alt="aa"> <img src="obr/dumbledore.jpg" alt="aa" width=100% height=100%></a>		</div>
+  <div class="obraz2"> <a href="obr/grindelwald.png" target="ramka" alt="aa"> <img src="obr/grindelwald.png" alt="aa" width=100% height=100%></a>	</div>
+  <div class="obraz3"> <a href="obr/voldemort.png" target="ramka" alt="aa"> <img src="obr/voldemort.png" alt="aa" width=100% height=100%></a> </div>
+  <div class="obraz4"> <a href="obr/moody.jpg" target="ramka" alt="aa"> <img src="obr/moody.jpg" alt="aa" width=100% height=100%></a></div>
+  <div class="obraz5"><a href="obr/snape.jpg" target="ramka" alt="aa"> <img src="obr/snape.jpg" alt="aa" width=100% height=100%></a></div>
+  <div class="obraz6"><a href="obr/minerwa.png" target="ramka" alt="aa"> <img src="obr/minerwa.png" alt="aa" width=100% height=100%></a> </div>
+  <div class="obraz7"><a href="obr/bellatrix.jpg" target="ramka" alt="aa"> <img src="obr/bellatrix.jpg" alt="aa" width=100% height=100%></a></div>
+  
+  <div class="pusto"></div>
+  <div class="pusto1"></div>
+  <div class="obraz">
+  <iframe class=wyswietlacz name="ramka" width=100% height=100%  frameborder="0"></iframe>
+  </div>  
+  
+  
+ 
+</div>
+
+
+
+
+<div  id=koniec class=srodek1>
+<a href=#poczotek >początek</a>
+</div> 
+
+<div  class=srodek1 target=blank>
+<a href="podstrony/index1.html">ankieta</a>
+<br>
+<a href="podstrony/index2.html">kolejność czytania książek</a>
+</div> 
+<br>
+<br>
+<div class=srodek1>
+<a href=https://harrypotter.fandom.com/pl/wiki/Strona_g%C5%82%C3%B3wna" target=blank>Harry Potter Wiki</a>
+</div>
+
+
+<div style="margin-left:1400px; font-size:35pt; color:magenta;">
+<div> Konrad Franczewski 1tb</div>
+
+
+</div>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+</HTML>
